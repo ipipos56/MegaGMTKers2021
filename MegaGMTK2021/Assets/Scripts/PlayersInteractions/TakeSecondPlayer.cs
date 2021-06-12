@@ -17,6 +17,11 @@ public class TakeSecondPlayer : MonoBehaviour
     private bool taked = false;
     private Transform parentOfSecondPlayer;
 
+    private void Awake()
+    {
+        playerPoint *= transform.localScale.x;
+    }
+
     private void OnTriggerEnter(Collider col)
     {
         if (col.transform.name == secondPlayerName)
