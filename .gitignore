@@ -58,4 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-MegaGMTK2021/Temp/
+MegaGMTK2021/[Ll]ibrary/
+MegaGMTK2021/[Tt]emp/
+MegaGMTK2021/[Oo]bj/
+MegaGMTK2021/[Bb]uild/
+MegaGMTK2021/[Bb]uilds/
+MegaGMTK2021/[Ll]ogs/
+MegaGMTK2021/[Mm]emoryCaptures/
