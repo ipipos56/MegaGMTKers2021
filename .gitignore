@@ -66,6 +66,15 @@ MegaGMTK2021/[Bb]uilds/
 MegaGMTK2021/[Ll]ogs/
 MegaGMTK2021/[Mm]emoryCaptures/
 
+MegaGMTK2021\Library\
+MegaGMTK2021\Temp\
+MegaGMTK2021\Obj\
+MegaGMTK2021\Build\
+MegaGMTK2021\Builds\
+MegaGMTK2021\Logs\
+MegaGMTK2021\MemoryCaptures\
+
+
 \[Ll]ibrary\
 \[Tt]emp\
 \[Oo]bj\
