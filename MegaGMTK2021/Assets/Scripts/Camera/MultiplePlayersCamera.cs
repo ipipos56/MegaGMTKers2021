@@ -26,6 +26,14 @@ public class MultiplePlayersCamera : MonoBehaviour
 
     private void LateUpdate()
     {
+        for (int i = 0; i < targets.Count; i++)
+        {
+            if (targets[i] == null)
+            {
+                targets.Remove(targets[i]);
+            }
+        }
+        
         if (targets.Count == 0)
             return;
 

@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - GunCamera
+  - Players
+  - PlayersList
+  - Enemy
+  - Button
+  - PlayerCamera
   layers:
   - Default
   - TransparentFX

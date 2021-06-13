@@ -13,17 +13,27 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayersInteractions/TakeSecondPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/OwnUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/PlayerList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Buttons/ButtonDown.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/MultiplePlayersCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/GoToATarget.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/Target.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
+      <option value="$PROJECT_DIR$/Assets/JMO Assets/WarFX/Scripts/WFX_LightFlicker.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Camera/MultiplePlayersCamera.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Shooting/RotatingOfWeapon.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Utils/OwnUtils.cs" />
       <option value="$PROJECT_DIR$/Assets/First person controller/Scripts/FirstPersonMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Utils/OwnUtils.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Shooting/RotatingOfWeapon.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Buttons/ButtonDown.cs" />
+      <option value="$PROJECT_DIR$/Assets/First person controller/Scripts/Components/GroundCheck.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Shooting/Target.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Shooting/Gun.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayersInteractions/TakeSecondPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/GoToATarget.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/PlayerList.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tqKjHQ47JDnD6tDWTglK8zCAH8" />
@@ -40,6 +50,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/GMTKGame\MegaGMTK2021.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Admin\Desktop\GMTKGame" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -69,7 +87,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623491317006</updated>
-      <workItem from="1623491327255" duration="9737000" />
+      <workItem from="1623491327255" duration="23532000" />
+      <workItem from="1623573852046" duration="14524000" />
+      <workItem from="1623594522810" duration="4891000" />
+      <workItem from="1623601020910" duration="50000" />
+      <workItem from="1623601637235" duration="747000" />
     </task>
     <servers />
   </component>

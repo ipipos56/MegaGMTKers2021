@@ -58,7 +58,7 @@ public static class OwnUtils
         if (Physics.Raycast(castPoint, out hit, Mathf.Infinity))
         {
             vec = hit.point;
-            if(!needZ)
+            if (!needZ)
                 vec.z = 0f;
         }
 
